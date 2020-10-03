@@ -7,7 +7,9 @@
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) and (max-width: 767.98px) {
-
+    .respon-1{
+        padding-bottom: 15px;
+    }
 }
 
 /* Medium devices (tablets, 768px and up) */
